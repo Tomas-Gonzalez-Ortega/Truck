@@ -1,0 +1,1360 @@
+﻿Log file open, 10/04/21 17:05:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AVS_Template
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.481199
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VehicleSystemPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/tgonzalezortega/AppData/Local/Temp/2/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:324][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:335][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.05-00.05.26:335][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.05-00.05.26:336][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.05-00.05.26:337][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.05-00.05.26:337][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.05-00.05.26:337][  0]LogHAL: Display: Platform has ~ 32 GB [34256674816 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.05-00.05.26:337][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.05-00.05.26:337][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Scalability.ini]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.05-00.05.26:338][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.05-00.05.26:339][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.05-00.05.26:339][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.05-00.05.26:339][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.05-00.05.26:339][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Engine.ini]
+[2021.10.05-00.05.26:339][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Epic Games/Unreal Projects/AVS_Template/Saved/Config/Windows/Editor.ini]
+[2021.10.05-00.05.26:339][  0]LogInit: Computer: EAV1044675
+[2021.10.05-00.05.26:339][  0]LogInit: User: tgonzalezortega
+[2021.10.05-00.05.26:339][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.10.05-00.05.26:339][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.05-00.05.26:339][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.10.05-00.05.26:339][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.05-00.05.26:339][  0]LogMemory: Process Physical Memory: 137.21 MB used, 137.21 MB peak
+[2021.10.05-00.05.26:339][  0]LogMemory: Process Virtual Memory: 111.77 MB used, 111.77 MB peak
+[2021.10.05-00.05.26:339][  0]LogMemory: Physical Memory: 14424.45 MB used,  18245.26 MB free, 32669.71 MB total
+[2021.10.05-00.05.26:339][  0]LogMemory: Virtual Memory: 134207080.00 MB used,  10651.84 MB free, 134217728.00 MB total
+[2021.10.05-00.05.26:347][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.05-00.05.26:408][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.05-00.05.26:434][  0]LogInit: Using OS detected language (en-US).
+[2021.10.05-00.05.26:434][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.05-00.05.26:444][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.05-00.05.26:716][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.05-00.05.26:732][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.05-00.05.26:756][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.05-00.05.26:757][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.05-00.05.27:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.05-00.05.27:470][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.05-00.05.27:470][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.05-00.05.27:470][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.05-00.05.27:583][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.10.05-00.05.27:583][  0]LogD3D11RHI:       4043/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.10.05-00.05.27:588][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.05-00.05.27:588][  0]LogD3D11RHI:       0/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.05-00.05.27:588][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.05-00.05.27:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.05-00.05.27:595][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.05-00.05.27:595][  0]LogWindows: EnumDisplayDevices:
+[2021.10.05-00.05.27:596][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.10.05-00.05.27:596][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.10.05-00.05.27:597][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.10.05-00.05.27:597][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.10.05-00.05.27:598][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.10.05-00.05.27:598][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.10.05-00.05.27:598][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.10.05-00.05.27:598][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.10.05-00.05.27:598][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.10.05-00.05.27:680][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.05-00.05.27:680][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.05-00.05.27:680][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.05-00.05.27:701][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.05-00.05.27:704][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.10.05-00.05.28:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.05-00.05.28:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.05-00.05.28:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.05-00.05.28:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.05-00.05.28:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.05-00.05.28:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.05-00.05.28:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.05-00.05.28:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.05-00.05.28:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.05-00.05.28:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.05-00.05.28:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.05-00.05.28:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.05-00.05.28:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.05-00.05.28:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.05-00.05.28:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.05-00.05.28:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.05-00.05.28:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.05-00.05.28:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.05-00.05.28:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.05-00.05.28:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.05-00.05.28:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.05-00.05.28:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.05-00.05.28:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.05-00.05.28:493][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.05-00.05.28:511][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.05-00.05.28:632][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.05-00.05.28:632][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../Unreal Projects/AVS_Template/Intermediate/Shaders/WorkingDirectory/35004/).
+[2021.10.05-00.05.28:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tgonzalezortega/AppData/Local/Temp/2/UnrealShaderWorkingDir/304D3A5E4EA75BE2163475A6A94DF322/'.
+[2021.10.05-00.05.28:632][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.05-00.05.28:633][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.05-00.05.29:811][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.05-00.05.29:899][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.05-00.05.29:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.05-00.05.29:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/AVS_Template/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.05-00.05.29:900][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.05-00.05.29:900][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/AVS_Template/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.05-00.05.29:900][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.05-00.05.29:913][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.05-00.05.29:913][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.05-00.05.29:913][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.05-00.05.29:998][  0]LogDerivedDataCache: Speed tests for C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.09 seconds
+[2021.10.05-00.05.29:998][  0]LogDerivedDataCache: Display: Performance to C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.16ms. RandomReadSpeed=80.89MBs, RandomWriteSpeed=13.00MBs. Assigned SpeedClass 'Local'
+[2021.10.05-00.05.29:999][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.05-00.05.29:999][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.05-00.05.29:999][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.05-00.05.30:052][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.05-00.05.30:055][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.05-00.05.30:096][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.10.05-00.05.30:408][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.05-00.05.30:408][  0]LogInit: Active device profile: [00000145C235BB00][00000145BDD580C0 49] Windows
+[2021.10.05-00.05.30:408][  0]LogInit: Profiles: [00000145C235BB00][00000145BDD580C0 49] Windows, [00000145C2328600][00000145BDD60240 49] WindowsNoEditor, [00000145C2358600][00000145BDD643C0 49] WindowsServer, [00000145C232B600][00000145BDD68540 49] WindowsClient, [00000145C235B400][00000145BDD6C6C0 49] IOS, [00000145C2328C00][00000145BA7B0840 49] iPadAir, [00000145C2358900][00000145BA7B49C0 49] iPadAir2, [00000145C22E5200][00000145BA7BCC80 49] IPadPro, [00000145C22E5300][00000145BA7B8CC0 49] iPadAir3, [00000145C235A700][00000145BA7C0E40 49] iPadAir4, [00000145C22E4B00][00000145BA7C4FC0 49] iPadMini2, [00000145C2358B00][00000145BA7C9140 49] iPadMini3, [00000145C22E6200][00000145BA7CD2C0 49] iPadMini4, [00000145C235AC00][00000145BA7D1440 49] iPadMini5, [00000145C232BE00][00000145BA7D5680 49] iPhone6, [00000145C232BA00][00000145BDD5D6C0 49] iPodTouch6, [00000145C22E4700][00000145BA7DD900 49] iPhone7, [00000145C22E6100][00000145BA7D9940 49] iPodTouch7, [00000145C232B400][00000145BA7E5AC0 49] iPhone5S, [00000145C22E4100][00000145BA7E9C40 49] iPhone6Plus, [00000145C2329E00][00000145BA7EC100 49] iPhone6S, [00000145C22E5F00][00000145BA7F0280 49] iPhone6SPlus, [00000145C232B900][00000145BA7F4400 49] iPhone7Plus, [00000145C22E4800][00000145BA7F8580 49] iPhoneSE, [00000145C2328800][00000145BA7FC700 49] iPhone8, [00000145C22E4E00][00000145BA800880 49] iPhone8Plus, [00000145C2329B00][00000145BA804A00 49] iPhoneX, [00000145C22E6C00][00000145BA808B80 49] iPhoneXS, [00000145C232A500][00000145BA80CD00 49] iPhoneXSMax, [00000145C22E4F00][00000145BA810E80 49] iPhoneXR, [00000145C232AE00][00000145BA815000 49] iPhone11, [00000145C22E4200][00000145BA819180 49] iPhone11Pro, [00000145C2328900][00000145BA81D300 49] iPhone11ProMax, [00000145C22E4D00][00000145BA821480 49] iPhoneSE2, [00000145C232A700][00000145BA825600 49] iPhone12Mini, [00000145C22E6700][00000145BA7E1740 49] iPhone12, [00000145C232BB00][00000145BA829880 49] iPhone12Pro, [00000145C22E6800][00000145BA82D9C0 49] iPhone12ProMax, [00000145C2328400][00000145BA835B40 49] iPadPro105, [00000145C22E7A00][00000145BA839CC0 49] iPadPro129, [00000145C232A100][00000145BA83C180 49] iPadPro97, [00000145C22E7D00][00000145BA840300 49] iPadPro2_129, [00000145C232AB00][00000145BA844480 49] iPad5, [00000145C22E5800][00000145BA848600 49] iPad6, [00000145C232BD00][00000145BA84C780 49] iPad7, [00000145C22E6900][00000145BA850900 49] iPad8, [00000145C232B000][00000145BA854A80 49] iPadPro11, [00000145C22E5500][00000145BA858C00 49] iPadPro2_11, [00000145C2328E00][00000145BA85CD80 49] iPadPro3_129, [00000145C22E5B00][00000145BA860F00 49] iPadPro4_129, [00000145C232A200][00000145BA865080 49] AppleTV, [00000145C22E7300][00000145BA869200 49] AppleTV4K, [00000145C232AA00][00000145BA86D380 49] TVOS, [00000145C22E6D00][00000145BA871500 49] Mac, [00000145C2329700][00000145BA875680 49] MacClient, [00000145C22E5E00][00000145BA8317C0 49] MacNoEditor, [00000145C232B100][00000145BA879900 49] MacServer, [00000145C22E4900][00000145BA87DA40 49] Linux, [00000145C2329D00][00000145BA881B80 49] LinuxAArch64, [00000145C22E7900][00000145BA889D00 49] LinuxNoEditor, [00000145C232B500][00000145BA88C1C0 49] LinuxAArch64NoEditor, [00000145C22E6000][00000145BA890340 49] LinuxClient, [00000145C232A400][00000145BA8944C0 49] LinuxAArch64Client, [00000145C22E4A00][00000145BA898640 49] LinuxServer, [00000145C23AD500][00000145BA89C7C0 49] LinuxAArch64Server, [00000145C2358E00][00000145BA8A0940 49] Android, [00000145C23AC800][00000145BA8A4AC0 49] Android_Low, [00000145C2359F00][00000145BA8A8C40 49] Android_Mid, [00000145C23ADF00][00000145BA8ACDC0 49] Android_High, [00000145C2358F00][00000145BA8B0F40 49] Android_Default, [00000145C23AC200][00000145BA8B50C0 49] Android_Adreno4xx, [00000145C2358A00][00000145BA8B9240 49] Android_Adreno5xx_Low, [00000145C23AC100][00000145BA8BD3C0 49] Android_Adreno5xx, [00000145C2359400][00000145BA8C1540 49] Android_Adreno6xx, [00000145C23AD700][00000145BA8C56C0 49] Android_Adreno6xx_Vulkan, [00000145C235A800][00000145BA885800 49] Android_Mali_T6xx, [00000145C23ACE00][00000145BA8C9940 49] Android_Mali_T7xx, [00000145C2358700][00000145BA8CDA80 49] Android_Mali_T8xx, [00000145C23AC900][00000145BA8D1BC0 49] Android_Mali_G71, [00000145C235B900][00000145BA8D9D40 49] Android_Mali_G72, [00000145C23AC400][00000145BA8DC200 49] Android_Mali_G72_Vulkan, [00000145C2359E00][00000145BA8E0380 49] Android_Mali_G76, [00000145C23AD100][00000145BA8E4500 49] Android_Mali_G76_Vulkan, [00000145C235A200][00000145BA8E8680 49] Android_Mali_G77, [00000145C22E4600][00000145BA8EC800 49] Android_Mali_G77_Vulkan, [00000145C232AD00][00000145BA8F0980 49] Android_Vulkan_SM5, [00000145C22E5400][00000145BA8F4B00 49] Android_PowerVR_G6xxx, [00000145C232AF00][00000145BA8F8C80 49] Android_PowerVR_GT7xxx, [00000145C22E5000][00000145BA8FCE00 49] Android_PowerVR_GE8xxx, [00000145C2329C00][00000145BA900F80 49] Android_PowerVR_GM9xxx, [00000145C22E7800][00000145BA905100 49] Android_PowerVR_GM9xxx_Vulkan, [00000145C2328100][00000145BA909280 49] Android_TegraK1, [00000145C22E6600][00000145BA90D400 49] Android_Unknown_Vulkan, [00000145C2329F00][00000145BA911580 49] Lumin, [00000145C22E7700][00000145BA915700 49] Lumin_Desktop, [00000145C2329600][00000145BA919880 49] HoloLens, 
+[2021.10.05-00.05.30:592][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.05-00.05.30:592][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.05-00.05.30:592][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.05-00.05.30:592][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.05-00.05.30:593][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.05-00.05.30:619][  0]LogNetVersion: AVS_Template 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3715516526)
+[2021.10.05-00.05.31:332][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.05-00.05.31:569][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.236388 seconds
+[2021.10.05-00.05.31:574][  0]LogUObjectArray: 16827 objects as part of root set at end of initial load.
+[2021.10.05-00.05.31:574][  0]LogUObjectAllocator: 4208352 out of 0 bytes used by permanent object pool.
+[2021.10.05-00.05.31:574][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.05-00.05.32:093][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.05-00.05.32:100][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.05-00.05.32:447][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.32:447][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.32:477][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.32:489][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.32:596][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.32:609][  0]LogUProjectInfo: Found projects:
+[2021.10.05-00.05.32:915][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.05-00.05.32:966][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.05-00.05.32:966][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.05-00.05.33:054][  0]LogCollectionManager: Loaded 0 collections in 0.001484 seconds
+[2021.10.05-00.05.33:098][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Unreal Projects/AVS_Template/Saved/Collections/' took 0.00s
+[2021.10.05-00.05.33:098][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Unreal Projects/AVS_Template/Content/Developers/tgonzalezortega/Collections/' took 0.00s
+[2021.10.05-00.05.33:098][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Unreal Projects/AVS_Template/Content/Collections/' took 0.00s
+[2021.10.05-00.05.33:098][  0]LogOcInput: OculusInput pre-init called
+[2021.10.05-00.05.33:122][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.05-00.05.33:122][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.05-00.05.33:191][  0]LogEngine: Initializing Engine...
+[2021.10.05-00.05.33:193][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.05-00.05.33:193][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.05-00.05.33:194][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.05-00.05.33:380][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.05-00.05.33:392][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.05-00.05.33:405][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.05-00.05.33:412][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.05-00.05.33:412][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.05.33:412][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.05.33:412][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.05.33:412][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.05.33:439][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.05.33:439][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.05.33:488][  0]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.05.33:491][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.05.33:497][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.05.33:497][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.05.33:498][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.05.33:498][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.05.33:498][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.05.33:499][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.05.33:499][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.05.33:499][  0]LogInit: FAudioDevice initialized.
+[2021.10.05-00.05.33:499][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.05-00.05.33:499][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.05-00.05.33:616][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB C:/Users/tgonzalezortega/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.05-00.05.33:624][  0]LogInit: Texture streaming: Enabled
+[2021.10.05-00.05.33:644][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.05-00.05.33:652][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.05-00.05.33:652][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.05-00.05.33:658][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.05-00.05.33:771][  0]LogInit: Transaction tracking system initialized
+[2021.10.05-00.05.33:811][  0]BlueprintLog: New page: Editor Load
+[2021.10.05-00.05.33:942][  0]LocalizationService: Localization service is disabled
+[2021.10.05-00.05.33:991][  0]TimingProfiler: Initialize
+[2021.10.05-00.05.33:991][  0]TimingProfiler: OnSessionChanged
+[2021.10.05-00.05.33:991][  0]LoadingProfiler: Initialize
+[2021.10.05-00.05.33:991][  0]LoadingProfiler: OnSessionChanged
+[2021.10.05-00.05.33:991][  0]NetworkingProfiler: Initialize
+[2021.10.05-00.05.33:991][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.05-00.05.33:991][  0]MemoryProfiler: Initialize
+[2021.10.05-00.05.33:991][  0]MemoryProfiler: OnSessionChanged
+[2021.10.05-00.05.33:999][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.10.05-00.05.33:999][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.10.05-00.05.34:302][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.05-00.05.34:302][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.05-00.05.34:520][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games/Unreal Projects/AVS_Template/Content/' took 0.04s
+[2021.10.05-00.05.34:994][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.05-00.05.35:003][  0]SourceControl: Source control is disabled
+[2021.10.05-00.05.35:003][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.854
+[2021.10.05-00.05.35:003][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/AVS_Template/Content/UnrealVehicleTemplate/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.05-00.05.35:004][  0]LightingResults: New page: Lighting Build
+[2021.10.05-00.05.35:005][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.05.35:006][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.05.35:006][  0]MapCheck: New page: Map Check
+[2021.10.05-00.05.35:006][  0]LightingResults: New page: Lighting Build
+[2021.10.05-00.05.35:013][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.10.05-00.05.36:053][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.05.36:054][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.05.36:063][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.05-00.05.36:082][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.05-00.05.36:082][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.05-00.05.36:083][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2021.10.05-00.05.36:083][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 1.080
+[2021.10.05-00.05.36:085][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.936
+[2021.10.05-00.05.36:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.05.36:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.05.36:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.05.36:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.05.36:265][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3604 classes and 862 folders.
+[2021.10.05-00.05.36:268][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.05-00.05.36:272][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.05-00.05.36:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.05-00.05.36:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.10.05-00.05.36:273][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.05-00.05.36:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.05-00.05.36:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.05-00.05.36:275][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.05-00.05.36:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.05-00.05.36:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.10.05-00.05.36:277][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.05-00.05.36:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.05-00.05.36:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.10.05-00.05.36:279][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.05-00.05.36:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.05-00.05.36:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.10.05-00.05.36:281][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.05-00.05.36:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.05-00.05.36:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.10.05-00.05.36:283][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.05-00.05.36:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.05-00.05.36:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.05-00.05.36:284][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.05-00.05.36:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.05-00.05.36:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.10.05-00.05.36:286][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.05-00.05.36:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.05-00.05.36:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.10.05-00.05.36:288][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.05-00.05.36:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.05-00.05.36:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.05-00.05.36:289][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.05-00.05.36:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.05-00.05.36:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.10.05-00.05.36:291][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.05-00.05.36:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.05-00.05.36:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.10.05-00.05.36:293][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.05-00.05.36:293][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:293][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.05-00.05.36:293][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.05-00.05.36:294][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.05-00.05.36:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.05-00.05.36:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.10.05-00.05.36:296][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.05-00.05.36:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.05-00.05.36:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.10.05-00.05.36:298][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.05-00.05.36:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.05-00.05.36:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.10.05-00.05.36:300][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.05-00.05.36:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.05-00.05.36:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.10.05-00.05.36:301][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.05-00.05.36:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.05-00.05.36:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.05-00.05.36:303][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.05-00.05.36:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.05-00.05.36:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.10.05-00.05.36:305][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.05-00.05.36:305][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:305][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.05-00.05.36:305][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.10.05-00.05.36:307][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.05-00.05.36:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.05-00.05.36:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.10.05-00.05.36:308][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.05-00.05.36:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.05-00.05.36:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.10.05-00.05.36:310][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.05-00.05.36:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.05-00.05.36:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.10.05-00.05.36:312][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.05-00.05.36:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.05-00.05.36:312][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.10.05-00.05.36:314][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.05-00.05.36:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.05-00.05.36:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.10.05-00.05.36:315][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.05-00.05.36:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.05-00.05.36:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.05-00.05.36:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.10.05-00.05.36:718][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.05-00.05.36:719][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.10.05-00.05.36:847][  0]LogSlate: Took 0.000895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.05-00.05.36:854][  0]LogSlate: Took 0.000842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.05-00.05.36:861][  0]LogSlate: Took 0.000697 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.05-00.05.36:986][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.10.05-00.05.37:107][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.05-00.05.37:107][  0]LogLoad: (Engine Initialization) Total time: 13.96 seconds
+[2021.10.05-00.05.37:107][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.05-00.05.37:107][  0]LogInit: First time updating LLM stats...
+[2021.10.05-00.05.37:313][  0]LogAssetRegistry: Asset discovery search completed in 7.2182 seconds
+[2021.10.05-00.05.37:314][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.10.05-00.05.37:315][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.05-00.05.37:415][  2]LogSlate: Took 0.000700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.05-00.05.38:138][ 82]LogSlate: Took 0.000683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.05-00.06.39:412][361]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-00.06.39:428][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-00.06.39:428][361]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2021, 10:06:39 AM)
+[2021.10.05-00.06.39:430][361]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.05-00.06.39:431][361]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.05-00.06.39:431][361]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.06.39:463][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032209s)
+[2021.10.05-00.06.39:464][361]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.06.39:465][361]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2021.10.05-00.06.39:465][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.033931s)
+[2021.10.05-00.06.39:473][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.05-00.06.39:473][361]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.06.39:474][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.06.39:474][361]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.06.39:474][361]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.06.39:481][361]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.06.39:481][361]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.06.39:500][361]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.06.39:500][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.06.39:501][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.06.39:501][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.06.39:501][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.06.39:501][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.06.39:501][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.06.39:516][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.06.39:516][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.06.39:516][361]LogInit: FAudioDevice initialized.
+[2021.10.05-00.06.39:516][361]LogAudio: Display: Audio Device (ID: 2) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.06.39:535][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\M_Glass.uasset: Failed to load '/Game/VehicleSystem/HDRi/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.10.05-00.06.39:535][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\M_Glass.uasset: Failed to load '/Game/VehicleSystem/HDRi/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.10.05-00.06.39:535][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\M_Glass.uasset: Failed to load '/Game/VehicleSystem/HDRi/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.10.05-00.06.39:541][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor': Can't find file.
+[2021.10.05-00.06.39:541][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor': Can't find file.
+[2021.10.05-00.06.39:541][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor_N': Can't find file.
+[2021.10.05-00.06.39:542][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor_N': Can't find file.
+[2021.10.05-00.06.39:542][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor': Can't find file.
+[2021.10.05-00.06.39:542][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor_N': Can't find file.
+[2021.10.05-00.06.39:543][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Fabric_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric': Can't find file.
+[2021.10.05-00.06.39:544][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Fabric_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric': Can't find file.
+[2021.10.05-00.06.39:544][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Fabric_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric': Can't find file.
+[2021.10.05-00.06.39:546][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\GrilleMesh_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh': Can't find file.
+[2021.10.05-00.06.39:546][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\GrilleMesh_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh': Can't find file.
+[2021.10.05-00.06.39:546][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\GrilleMesh_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh': Can't find file.
+[2021.10.05-00.06.39:548][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Mirror.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror_Tex': Can't find file.
+[2021.10.05-00.06.39:548][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Mirror.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror_Tex': Can't find file.
+[2021.10.05-00.06.39:548][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Mirror.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror_Tex': Can't find file.
+[2021.10.05-00.06.39:550][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\MI_Glass_Tinted.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/M_Glass': Can't find file.
+[2021.10.05-00.06.39:550][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\MI_Glass_Tinted.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/M_Glass': Can't find file.
+[2021.10.05-00.06.39:550][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\MI_Glass_Tinted.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/M_Glass': Can't find file.
+[2021.10.05-00.06.39:552][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotivePaint\Demo_CarPaint_DarkTeal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/CarPaint/M_Carpaint': Can't find file.
+[2021.10.05-00.06.39:552][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotivePaint\Demo_CarPaint_DarkTeal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/CarPaint/M_Carpaint': Can't find file.
+[2021.10.05-00.06.39:553][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotivePaint\Demo_CarPaint_DarkTeal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/CarPaint/M_Carpaint': Can't find file.
+[2021.10.05-00.06.39:554][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Black.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:554][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Black.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:555][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Black.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:556][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Grey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:556][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Grey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:558][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Sand.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:558][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Sand.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:559][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Chrome_Metal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:560][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Chrome_Metal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:560][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Chrome_Metal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:561][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Metal_DarkGrey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:561][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Metal_DarkGrey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:563][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_Blinker_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:563][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_Blinker_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:564][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_Blinker_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:565][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_TailLight_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:565][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_TailLight_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:569][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/MilitaryMPV/MatTex/MPV_Light': Can't find file.
+[2021.10.05-00.06.39:570][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/MilitaryMPV/MatTex/MPV_Light': Can't find file.
+[2021.10.05-00.06.39:570][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/MilitaryMPV/MatTex/MPV_Light': Can't find file.
+[2021.10.05-00.06.39:570][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/HeadLight': Can't find file.
+[2021.10.05-00.06.39:571][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/HeadLight': Can't find file.
+[2021.10.05-00.06.39:571][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/HeadLight': Can't find file.
+[2021.10.05-00.06.39:574][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:574][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Generic/Black': Can't find file.
+[2021.10.05-00.06.39:575][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Generic/Black': Can't find file.
+[2021.10.05-00.06.39:575][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright': Can't find file.
+[2021.10.05-00.06.39:576][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright': Can't find file.
+[2021.10.05-00.06.39:576][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat': Can't find file.
+[2021.10.05-00.06.39:576][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat': Can't find file.
+[2021.10.05-00.06.39:577][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat': Can't find file.
+[2021.10.05-00.06.39:577][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat': Can't find file.
+[2021.10.05-00.06.39:577][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat': Can't find file.
+[2021.10.05-00.06.39:578][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat': Can't find file.
+[2021.10.05-00.06.39:578][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror': Can't find file.
+[2021.10.05-00.06.39:578][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror': Can't find file.
+[2021.10.05-00.06.39:579][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass': Can't find file.
+[2021.10.05-00.06.39:579][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass': Can't find file.
+[2021.10.05-00.06.39:579][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted': Can't find file.
+[2021.10.05-00.06.39:580][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted': Can't find file.
+[2021.10.05-00.06.39:580][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal': Can't find file.
+[2021.10.05-00.06.39:580][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal': Can't find file.
+[2021.10.05-00.06.39:581][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:581][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:581][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey': Can't find file.
+[2021.10.05-00.06.39:582][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey': Can't find file.
+[2021.10.05-00.06.39:582][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand': Can't find file.
+[2021.10.05-00.06.39:582][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand': Can't find file.
+[2021.10.05-00.06.39:583][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal': Can't find file.
+[2021.10.05-00.06.39:583][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal': Can't find file.
+[2021.10.05-00.06.39:583][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:584][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:584][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:584][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:585][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:585][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:586][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light': Can't find file.
+[2021.10.05-00.06.39:586][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light': Can't find file.
+[2021.10.05-00.06.39:586][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off': Can't find file.
+[2021.10.05-00.06.39:587][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off': Can't find file.
+[2021.10.05-00.06.39:587][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight': Can't find file.
+[2021.10.05-00.06.39:587][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight': Can't find file.
+[2021.10.05-00.06.39:588][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass': Can't find file.
+[2021.10.05-00.06.39:588][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted': Can't find file.
+[2021.10.05-00.06.39:588][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal': Can't find file.
+[2021.10.05-00.06.39:588][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:588][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey': Can't find file.
+[2021.10.05-00.06.39:589][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand': Can't find file.
+[2021.10.05-00.06.39:589][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:589][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Generic/Black': Can't find file.
+[2021.10.05-00.06.39:589][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal': Can't find file.
+[2021.10.05-00.06.39:590][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:590][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:590][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright': Can't find file.
+[2021.10.05-00.06.39:590][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat': Can't find file.
+[2021.10.05-00.06.39:591][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat': Can't find file.
+[2021.10.05-00.06.39:591][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat': Can't find file.
+[2021.10.05-00.06.39:591][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror': Can't find file.
+[2021.10.05-00.06.39:591][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:591][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light': Can't find file.
+[2021.10.05-00.06.39:592][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off': Can't find file.
+[2021.10.05-00.06.39:592][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight': Can't find file.
+[2021.10.05-00.06.39:593][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:594][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:594][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:594][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:595][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:595][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:597][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:597][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:597][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:597][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:741][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Chrome_Metal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:741][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat.Metal_Colored_Mat Referenced by Chrome_Metal
+[2021.10.05-00.06.39:742][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Sand.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:742][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White.Color_White Referenced by Color_Sand
+[2021.10.05-00.06.39:742][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Grey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:742][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White.Color_White Referenced by Color_Grey
+[2021.10.05-00.06.39:742][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Colors\Color_Black.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:742][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White.Color_White Referenced by Color_Black
+[2021.10.05-00.06.39:743][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotivePaint\Demo_CarPaint_DarkTeal.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/CarPaint/M_Carpaint': Can't find file.
+[2021.10.05-00.06.39:743][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/CarPaint/M_Carpaint.M_Carpaint Referenced by Demo_CarPaint_DarkTeal
+[2021.10.05-00.06.39:745][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\M_Glass.uasset: Failed to load '/Game/VehicleSystem/HDRi/HDRI_Epic_Courtyard_Daylight': Can't find file.
+[2021.10.05-00.06.39:745][361]LoadErrors: Failed to load /Game/VehicleSystem/HDRi/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight Referenced by MaterialExpressionTextureSampleParameterCube_6
+[2021.10.05-00.06.39:747][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:747][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire.MI_Tire Referenced by Semi_Wheel_Rear
+[2021.10.05-00.06.39:747][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:747][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:747][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim.Rim Referenced by Semi_Wheel_Rear
+[2021.10.05-00.06.39:748][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:748][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:748][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Rear.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:748][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:749][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire.MI_Tire Referenced by Semi_Wheel_Front
+[2021.10.05-00.06.39:749][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:749][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:749][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim.Rim Referenced by Semi_Wheel_Front
+[2021.10.05-00.06.39:749][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:750][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rubber/MI_Tire': Can't find file.
+[2021.10.05-00.06.39:750][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi_Wheel_Front.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Rim': Can't find file.
+[2021.10.05-00.06.39:750][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:750][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black.Color_Black Referenced by Semi
+[2021.10.05-00.06.39:751][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright': Can't find file.
+[2021.10.05-00.06.39:751][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright.Color_White_Fullbright Referenced by Semi
+[2021.10.05-00.06.39:751][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass': Can't find file.
+[2021.10.05-00.06.39:751][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass.MI_Glass Referenced by Semi
+[2021.10.05-00.06.39:751][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:752][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat': Can't find file.
+[2021.10.05-00.06.39:752][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat.Fabric_Mat Referenced by Semi
+[2021.10.05-00.06.39:752][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey': Can't find file.
+[2021.10.05-00.06.39:752][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey.Color_Grey Referenced by Semi
+[2021.10.05-00.06.39:752][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:752][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey.Metal_DarkGrey Referenced by Semi
+[2021.10.05-00.06.39:753][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal': Can't find file.
+[2021.10.05-00.06.39:753][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal.Chrome_Metal Referenced by Semi
+[2021.10.05-00.06.39:753][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand': Can't find file.
+[2021.10.05-00.06.39:753][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand.Color_Sand Referenced by Semi
+[2021.10.05-00.06.39:753][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:753][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White.Color_White Referenced by Semi
+[2021.10.05-00.06.39:753][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:754][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight': Can't find file.
+[2021.10.05-00.06.39:754][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight.Semi_Headlight Referenced by Semi
+[2021.10.05-00.06.39:754][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:754][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off.Sedan_Blinker_Off Referenced by Semi
+[2021.10.05-00.06.39:754][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off': Can't find file.
+[2021.10.05-00.06.39:754][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off.Sedan_TailLight_Off Referenced by Semi
+[2021.10.05-00.06.39:755][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light': Can't find file.
+[2021.10.05-00.06.39:755][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light.Sedan_Light Referenced by Semi
+[2021.10.05-00.06.39:755][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat': Can't find file.
+[2021.10.05-00.06.39:755][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat.DiamondPlate_Mat Referenced by Semi
+[2021.10.05-00.06.39:755][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Generic/Black': Can't find file.
+[2021.10.05-00.06.39:755][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/Generic/Black.Black Referenced by Semi
+[2021.10.05-00.06.39:756][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted': Can't find file.
+[2021.10.05-00.06.39:756][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted.MI_Glass_Tinted Referenced by Semi
+[2021.10.05-00.06.39:756][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror': Can't find file.
+[2021.10.05-00.06.39:756][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror.Mirror Referenced by Semi
+[2021.10.05-00.06.39:756][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:757][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat': Can't find file.
+[2021.10.05-00.06.39:757][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat.GrilleMesh_Mat Referenced by Semi
+[2021.10.05-00.06.39:757][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:757][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:757][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:758][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey.VehiclePaint_DarkGrey Referenced by Semi
+[2021.10.05-00.06.39:758][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal': Can't find file.
+[2021.10.05-00.06.39:758][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal.Demo_CarPaint_DarkTeal Referenced by Semi
+[2021.10.05-00.06.39:758][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:758][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Debug/Color_White_Fullbright': Can't find file.
+[2021.10.05-00.06.39:759][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass': Can't find file.
+[2021.10.05-00.06.39:759][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:759][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric_Mat': Can't find file.
+[2021.10.05-00.06.39:759][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Grey': Can't find file.
+[2021.10.05-00.06.39:760][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:760][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Chrome_Metal': Can't find file.
+[2021.10.05-00.06.39:760][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Sand': Can't find file.
+[2021.10.05-00.06.39:760][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_White': Can't find file.
+[2021.10.05-00.06.39:761][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:761][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/Semi_Headlight': Can't find file.
+[2021.10.05-00.06.39:761][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:761][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_TailLight_Off': Can't find file.
+[2021.10.05-00.06.39:762][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Light': Can't find file.
+[2021.10.05-00.06.39:762][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlate_Mat': Can't find file.
+[2021.10.05-00.06.39:762][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Generic/Black': Can't find file.
+[2021.10.05-00.06.39:763][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/MI_Glass_Tinted': Can't find file.
+[2021.10.05-00.06.39:763][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror': Can't find file.
+[2021.10.05-00.06.39:763][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/Colors/Color_Black': Can't find file.
+[2021.10.05-00.06.39:763][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh_Mat': Can't find file.
+[2021.10.05-00.06.39:764][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:764][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Hatchback/MatTex/Sedan_Blinker_Off': Can't find file.
+[2021.10.05-00.06.39:764][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Paint/VehiclePaint_DarkGrey': Can't find file.
+[2021.10.05-00.06.39:764][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\Semi.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotivePaint/Demo_CarPaint_DarkTeal': Can't find file.
+[2021.10.05-00.06.39:765][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/MilitaryMPV/MatTex/MPV_Light': Can't find file.
+[2021.10.05-00.06.39:765][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/MilitaryMPV/MatTex/MPV_Light.MPV_Light Referenced by Semi_Headlight
+[2021.10.05-00.06.39:765][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\SemiTruck\MatTex\Semi_Headlight.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/HeadLight': Can't find file.
+[2021.10.05-00.06.39:765][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/SemiTruck/MatTex/HeadLight.HeadLight Referenced by Semi_Headlight
+[2021.10.05-00.06.39:766][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_TailLight_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:766][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight.M_VehicleLight Referenced by MI_TailLight_Low
+[2021.10.05-00.06.39:766][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Lights\MI_Blinker_Low.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight': Can't find file.
+[2021.10.05-00.06.39:766][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Lights/M_VehicleLight.M_VehicleLight Referenced by MI_Blinker_Low
+[2021.10.05-00.06.39:767][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Body\Metal_DarkGrey.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat': Can't find file.
+[2021.10.05-00.06.39:767][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Body/Metal_Colored_Mat.Metal_Colored_Mat Referenced by Metal_DarkGrey
+[2021.10.05-00.06.39:767][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\MI_Glass_Tinted.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/M_Glass': Can't find file.
+[2021.10.05-00.06.39:767][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Materials/AutomotiveMaterials/Materials/Glass/M_Glass.M_Glass Referenced by MI_Glass_Tinted
+[2021.10.05-00.06.39:767][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Mirror.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror_Tex': Can't find file.
+[2021.10.05-00.06.39:767][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Mirror_Tex.Mirror_Tex Referenced by MaterialExpressionTextureSample_0
+[2021.10.05-00.06.39:768][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\GrilleMesh_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh': Can't find file.
+[2021.10.05-00.06.39:768][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/GrilleMesh.GrilleMesh Referenced by MaterialExpressionTextureSample_0
+[2021.10.05-00.06.39:768][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Fabric_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric': Can't find file.
+[2021.10.05-00.06.39:768][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/Fabric.Fabric Referenced by MaterialExpressionTextureSample_4
+[2021.10.05-00.06.39:769][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor': Can't find file.
+[2021.10.05-00.06.39:769][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor.DiamondPlateFloor Referenced by MaterialExpressionTextureSample_1
+[2021.10.05-00.06.39:769][361]LogLinker: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to load '/Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor_N': Can't find file.
+[2021.10.05-00.06.39:769][361]LoadErrors: Failed to load /Game/VehicleSystem/DemoAssets/Vehicles/Common/DiamondPlateFloor_N.DiamondPlateFloor_N Referenced by MaterialExpressionTextureSample_2
+[2021.10.05-00.06.39:789][361]LogMaterial: Display: Missing cached shader map for material M_Glass, compiling. 
+[2021.10.05-00.06.39:790][361]LogMaterial: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\AutomotiveMaterials\Materials\Glass\M_Glass.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.05-00.06.39:790][361]LogMaterial: Display: 	(Node TextureSampleParameterCube) Glass Inner Reflection cubemap. Higher resolution maps will give higher quality reflections. (The reflection quality will also depend on the High Precision Static Mesh Vertex Normal and Tangent Encoding settings on the StaticMesh)> Found NULL, requires TextureCube
+[2021.10.05-00.06.39:835][361]LogMaterial: Display: Missing cached shader map for material Mirror, compiling. 
+[2021.10.05-00.06.39:836][361]LogMaterial: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Mirror.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.05-00.06.39:836][361]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.05-00.06.39:836][361]LogMaterial: Display: Missing cached shader map for material GrilleMesh_Mat, compiling. 
+[2021.10.05-00.06.39:837][361]LogMaterial: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\GrilleMesh_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.05-00.06.39:837][361]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.05-00.06.39:837][361]LogMaterial: Display: Missing cached shader map for material Fabric_Mat, compiling. 
+[2021.10.05-00.06.39:838][361]LogMaterial: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\Fabric_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.05-00.06.39:838][361]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.05-00.06.39:839][361]LogMaterial: Display: Missing cached shader map for material DiamondPlate_Mat, compiling. 
+[2021.10.05-00.06.39:839][361]LogMaterial: Warning: [AssetLog] F:\Epic Games\Unreal Projects\AVS_Template\Content\UnrealVehicleTemplate\Common\DiamondPlate_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.10.05-00.06.39:839][361]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.10.05-00.06.39:862][361]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.06.39:868][361]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.06.39
+[2021.10.05-00.06.39:868][361]LogWorld: Bringing up level for play took: 0.002835
+[2021.10.05-00.06.39:869][361]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.10.05-00.06.39:873][361]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.10.05-00.06.39:882][361]PIE: Server logged in
+[2021.10.05-00.06.39:884][361]PIE: Play in editor total start time 0.458 seconds.
+[2021.10.05-00.06.39:884][361]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.06.39:912][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029141s)
+[2021.10.05-00.06.39:913][361]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.06.39:914][361]LogPlayLevel: PIE: World Init took: (0.001515s)
+[2021.10.05-00.06.39:914][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap (0.030803s)
+[2021.10.05-00.06.39:923][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.10.05-00.06.39:924][361]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.06.39:924][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.06.39:924][361]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.06.39:924][361]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.06.39:930][361]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.06.39:930][361]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.06.39:947][361]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.06.39:947][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.06.39:947][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.06.39:947][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.06.39:948][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.06.39:948][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.06.39:948][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.06.39:963][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.06.39:963][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.06.39:963][361]LogInit: FAudioDevice initialized.
+[2021.10.05-00.06.39:963][361]LogAudio: Display: Audio Device (ID: 3) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.06.40:019][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.06.40:019][361]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.06.40:024][361]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.06.40
+[2021.10.05-00.06.40:025][361]LogWorld: Bringing up level for play took: 0.002798
+[2021.10.05-00.06.40:025][361]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.10.05-00.06.40:038][361]PIE: Server logged in
+[2021.10.05-00.06.40:039][361]PIE: Play in editor total start time 0.613 seconds.
+[2021.10.05-00.06.47:284][ 32]LogSlate: Window 'AVS_Template Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.05-00.06.47:293][ 32]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.06.47:315][ 32]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.06.47:316][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.06.47:322][ 32]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.06.47:322][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.06.47:375][ 32]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.06.47:376][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.06.47:380][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-00.06.47:383][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.06.47:389][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-00.06.47:390][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.06.47:391][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.06.47:409][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-00.06.47:409][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.06.47:410][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.06.47:428][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.06.47:432][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.10.05-00.06.47:458][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.10.05-00.06.47:458][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.10.05-00.07.19:557][653]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-00.07.19:572][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-00.07.19:573][653]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2021, 10:07:19 AM)
+[2021.10.05-00.07.19:573][653]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.07.19:601][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028679s)
+[2021.10.05-00.07.19:603][653]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.07.19:603][653]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2021.10.05-00.07.19:603][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.030209s)
+[2021.10.05-00.07.19:610][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.10.05-00.07.19:612][653]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.07.19:612][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.07.19:612][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.07.19:613][653]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.07.19:613][653]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.07.19:621][653]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.07.19:621][653]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.07.19:640][653]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.07.19:641][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.07.19:641][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.07.19:641][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.07.19:641][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.07.19:641][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.07.19:641][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.07.19:655][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.07.19:655][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.07.19:655][653]LogInit: FAudioDevice initialized.
+[2021.10.05-00.07.19:655][653]LogAudio: Display: Audio Device (ID: 4) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.07.19:661][653]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.07.19:667][653]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.07.19
+[2021.10.05-00.07.19:667][653]LogWorld: Bringing up level for play took: 0.003325
+[2021.10.05-00.07.19:667][653]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.10.05-00.07.19:678][653]PIE: Server logged in
+[2021.10.05-00.07.19:679][653]PIE: Play in editor total start time 0.109 seconds.
+[2021.10.05-00.07.19:679][653]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.07.19:708][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028643s)
+[2021.10.05-00.07.19:709][653]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.07.19:709][653]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2021.10.05-00.07.19:709][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap (0.029896s)
+[2021.10.05-00.07.19:716][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.10.05-00.07.19:717][653]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.07.19:717][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.07.19:717][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.07.19:718][653]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.07.19:718][653]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.07.19:724][653]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.07.19:724][653]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.07.19:740][653]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.07.19:741][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.07.19:741][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.07.19:741][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.07.19:741][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.07.19:741][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.07.19:741][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.07.19:756][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.07.19:756][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.07.19:756][653]LogInit: FAudioDevice initialized.
+[2021.10.05-00.07.19:756][653]LogAudio: Display: Audio Device (ID: 5) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.07.19:802][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.07.19:802][653]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.07.19:807][653]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.07.19
+[2021.10.05-00.07.19:808][653]LogWorld: Bringing up level for play took: 0.002837
+[2021.10.05-00.07.19:808][653]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.10.05-00.07.19:820][653]PIE: Server logged in
+[2021.10.05-00.07.19:821][653]PIE: Play in editor total start time 0.251 seconds.
+[2021.10.05-00.07.55:941][ 75]Cmd: NextDebugTarget
+[2021.10.05-00.07.56:515][131]Cmd: NextDebugTarget
+[2021.10.05-00.07.56:949][171]Cmd: NextDebugTarget
+[2021.10.05-00.07.57:790][254]Cmd: PreviousDebugTarget
+[2021.10.05-00.08.05:099][974]Cmd: NextDebugTarget
+[2021.10.05-00.08.05:539][ 18]Cmd: NextDebugTarget
+[2021.10.05-00.08.06:812][145]Cmd: PreviousDebugTarget
+[2021.10.05-00.08.07:402][203]Cmd: PreviousDebugTarget
+[2021.10.05-00.08.07:780][241]Cmd: PreviousDebugTarget
+[2021.10.05-00.08.21:755][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.08.21:755][602]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.08.21:756][602]LogSlate: Window 'AVS_Template Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.05-00.08.21:758][602]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.08.21:759][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.08.21:767][602]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.08.21:768][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.08.21:768][602]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.08.21:769][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.08.21:777][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-00.08.21:779][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.08.21:785][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-00.08.21:786][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.08.21:787][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.08.21:805][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.08.21:806][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.08.21:807][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.08.21:829][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.10.05-00.08.21:859][603]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.10.05-00.08.21:859][603]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.10.05-00.09.59:223][175]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.05-00.09.59:238][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.05-00.09.59:238][175]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2021, 10:09:59 AM)
+[2021.10.05-00.09.59:238][175]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.09.59:269][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030149s)
+[2021.10.05-00.09.59:270][175]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.09.59:270][175]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2021.10.05-00.09.59:270][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.031797s)
+[2021.10.05-00.09.59:278][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.10.05-00.09.59:278][175]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.09.59:278][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.09.59:279][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.09.59:279][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.09.59:279][175]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.09.59:279][175]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.09.59:286][175]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.09.59:286][175]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.09.59:310][175]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.09.59:310][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.09.59:310][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.09.59:310][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.09.59:311][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.09.59:311][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.09.59:311][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.09.59:325][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.09.59:325][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.09.59:325][175]LogInit: FAudioDevice initialized.
+[2021.10.05-00.09.59:325][175]LogAudio: Display: Audio Device (ID: 6) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.09.59:338][175]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.09.59:343][175]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.09.59
+[2021.10.05-00.09.59:343][175]LogWorld: Bringing up level for play took: 0.002582
+[2021.10.05-00.09.59:343][175]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.05-00.09.59:353][175]PIE: Server logged in
+[2021.10.05-00.09.59:354][175]PIE: Play in editor total start time 0.118 seconds.
+[2021.10.05-00.09.59:354][175]LogPlayLevel: Creating play world package: /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.09.59:384][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029419s)
+[2021.10.05-00.09.59:385][175]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.10.05-00.09.59:385][175]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2021.10.05-00.09.59:385][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UnrealVehicleTemplate/Maps/VehicleExampleMap.VehicleExampleMap to /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap (0.030673s)
+[2021.10.05-00.09.59:392][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.10.05-00.09.59:393][175]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.05-00.09.59:393][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.05-00.09.59:393][175]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.05-00.09.59:393][175]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.05-00.09.59:399][175]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-00.09.59:399][175]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-00.09.59:416][175]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.10.05-00.09.59:416][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.05-00.09.59:416][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.05-00.09.59:417][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.05-00.09.59:417][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.05-00.09.59:417][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.05-00.09.59:417][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.05-00.09.59:431][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.05-00.09.59:431][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.05-00.09.59:432][175]LogInit: FAudioDevice initialized.
+[2021.10.05-00.09.59:432][175]LogAudio: Display: Audio Device (ID: 7) registered with world 'VehicleExampleMap'.
+[2021.10.05-00.09.59:483][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.09.59:483][175]LogLoad: Game class is 'MyNewGameMode_C'
+[2021.10.05-00.09.59:488][175]LogWorld: Bringing World /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.10.04-17.09.59
+[2021.10.05-00.09.59:489][175]LogWorld: Bringing up level for play took: 0.002673
+[2021.10.05-00.09.59:489][175]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.05-00.09.59:501][175]PIE: Server logged in
+[2021.10.05-00.09.59:502][175]PIE: Play in editor total start time 0.266 seconds.
+[2021.10.05-00.10.21:977][337]Cmd: PreviousDebugTarget
+[2021.10.05-00.10.22:466][383]Cmd: NextDebugTarget
+[2021.10.05-00.10.22:786][413]Cmd: NextDebugTarget
+[2021.10.05-00.10.28:927][986]Cmd: PreviousDebugTarget
+[2021.10.05-00.10.29:320][ 23]Cmd: PreviousDebugTarget
+[2021.10.05-00.10.44:418][503]Cmd: NextDebugTarget
+[2021.10.05-00.10.44:999][562]Cmd: NextDebugTarget
+[2021.10.05-00.10.50:445][107]Cmd: PreviousDebugTarget
+[2021.10.05-00.10.51:255][188]Cmd: PreviousDebugTarget
+[2021.10.05-00.11.14:020][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.11.14:020][332]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_1_VehicleExampleMap
+[2021.10.05-00.11.14:021][332]LogSlate: Window 'AVS_Template Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.05-00.11.14:024][332]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.11.14:024][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.11.14:030][332]LogWorld: BeginTearingDown for /Game/UnrealVehicleTemplate/Maps/UEDPIE_0_VehicleExampleMap
+[2021.10.05-00.11.14:031][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.11.14:032][332]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.05-00.11.14:032][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.11.14:040][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.05-00.11.14:043][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.05-00.11.14:049][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.05-00.11.14:050][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.11.14:051][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.11.14:070][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.05-00.11.14:070][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.11.14:071][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.05-00.11.14:093][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.10.05-00.11.14:124][333]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.05-00.11.14:124][333]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.05-01.08.05:872][735]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7dd599b2-53e3-461a-ad53-6f60e68e47ba}.
+[2021.10.05-01.08.05:872][735]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.05-01.08.05:917][735]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-01.08.05:917][735]LogAudioMixer: Display: 1: FrontRight
+[2021.10.05-02.12.42:297][298]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:8394).
+[2021.10.05-02.12.42:754][298]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2021.10.05-02.12.44:836][299]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.05-02.12.44:886][299]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.05-02.12.44:886][299]LogAudioMixer: Display: 1: FrontRight

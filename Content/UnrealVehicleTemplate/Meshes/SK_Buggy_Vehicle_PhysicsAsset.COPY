@@ -1,0 +1,102 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="SK_Buggy_Vehicle_PhysicsAsset"
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_0"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_1"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_2"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_3"
+   End Object
+   Begin Object Class=/Script/Engine.PhysicsConstraintTemplate Name="PhysicsConstraintTemplate_8"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_0"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_1"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_2"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_3"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_4"
+   End Object
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_5"
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_0"
+      DefaultInstance=(JointName="F_L_wheelJNT",ConstraintBone1="F_L_wheelJNT",ConstraintBone2="rootJNT",Pos2=(X=171.064377,Y=-123.631088,Z=54.519516),PriAxis2=(X=1.000000,Y=-0.000006,Z=0.000000),SecAxis2=(X=0.000006,Y=1.000000,Z=-0.000000))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_1"
+      DefaultInstance=(JointName="F_R_wheelJNT",ConstraintBone1="F_R_wheelJNT",ConstraintBone2="rootJNT",Pos2=(X=171.065903,Y=123.628922,Z=54.519512),PriAxis2=(X=1.000000,Y=-0.000006,Z=0.000000),SecAxis2=(X=0.000006,Y=1.000000,Z=-0.000000))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_2"
+      DefaultInstance=(JointName="B_R_wheelJNT",ConstraintBone1="B_R_wheelJNT",ConstraintBone2="rootJNT",Pos2=(X=-103.420998,Y=123.630615,Z=62.064850),PriAxis2=(X=1.000000,Y=-0.000006,Z=0.000000),SecAxis2=(X=0.000006,Y=1.000000,Z=-0.000000))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_3"
+      DefaultInstance=(JointName="B_L_wheelJNT",ConstraintBone1="B_L_wheelJNT",ConstraintBone2="rootJNT",Pos2=(X=-103.321823,Y=-123.629395,Z=61.935848),PriAxis2=(X=1.000000,Y=-0.000006,Z=0.000000),SecAxis2=(X=0.000006,Y=1.000000,Z=-0.000000))
+   End Object
+   Begin Object Name="PhysicsConstraintTemplate_8"
+      DefaultInstance=(JointName="Antenna_01",ConstraintBone1="Antenna_01",ConstraintBone2="rootJNT",Pos2=(X=3.040784,Y=-54.746376,Z=224.222931),PriAxis2=(X=0.007195,Y=0.000000,Z=0.999974),SecAxis2=(X=-0.999974,Y=-0.000004,Z=0.007195),ProfileInstance=(ConeLimit=(Swing1LimitDegrees=1.000000,Swing2LimitDegrees=1.000000,Swing1Motion=ACM_Limited,Swing2Motion=ACM_Limited,Stiffness=500.000000,Damping=50.000000),TwistLimit=(TwistMotion=ACM_Locked)))
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="SkeletalBodySetup_0"
+      AggGeom=(BoxElems=((Center=(X=52.261181,Y=110.728577,Z=79.641632),X=417.000000,Y=95.000000,Z=88.000000),(Center=(X=62.261391,Y=-110.925446,Z=79.641632),X=417.000000,Y=95.000000,Z=88.000000)),SphylElems=((Center=(X=260.849304,Y=-0.000001,Z=103.854317),Rotation=(Pitch=-0.000007,Yaw=0.000007,Roll=-89.999954),Radius=39.500000,Length=255.000000),(Center=(X=-158.188568,Y=-0.000000,Z=130.049850),Rotation=(Pitch=0.000014,Yaw=-0.000002,Roll=-90.000008),Radius=42.250000,Length=240.500000)),ConvexElems=((VertexData=((X=276.765717,Y=-97.314308,Z=136.176559),(X=276.765717,Y=-97.314308,Z=174.656250),(X=276.765717,Y=97.312500,Z=174.656250),(X=276.765717,Y=97.312500,Z=136.176575),(X=-163.802277,Y=97.312500,Z=81.672852),(X=-163.802277,Y=97.312500,Z=174.656250),(X=-163.802277,Y=-97.314308,Z=174.656250),(X=-163.802277,Y=-97.314308,Z=81.687500),(X=222.263824,Y=97.316116,Z=81.674667),(X=222.274857,Y=-97.316116,Z=81.685684)),ElemBox=(Min=(X=-163.802277,Y=-97.316116,Z=81.672852),Max=(X=276.765717,Y=97.316116,Z=174.656250),IsValid=1),Transform=(Rotation=(X=0.999502,Y=0.000003,Z=-0.031418,W=0.000002),Translation=(X=6.689510,Y=0.005654,Z=358.822174),Scale3D=(X=1.000000,Y=1.000000,Z=1.500000)))))
+      DefaultInstance=(bUseCCD=True,bNotifyRigidBodyCollision=True)
+      BoneName="rootJNT"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_1"
+      AggGeom=(SphylElems=((Center=(X=34.912170,Y=-0.222656,Z=0.005053),Rotation=(Pitch=0.000007,Yaw=90.000046,Roll=-89.999977),Radius=2.639408,Length=26.185137)))
+      DefaultInstance=(LinearDamping=3.000000,AngularDamping=10.000000,MassScale=0.010000)
+      BoneName="Antenna_01"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_2"
+      AggGeom=(SphylElems=((Center=(X=1.361277,Y=0.195086,Z=0.217011),Rotation=(Pitch=-90.000000,Yaw=-0.000069,Roll=0.000069),Radius=56.999176,Length=10.749191)))
+      DefaultInstance=(bNotifyRigidBodyCollision=True)
+      BoneName="F_L_wheelJNT"
+      PhysicsType=PhysType_Kinematic
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_3"
+      AggGeom=(SphylElems=((Center=(X=1.177432,Y=2.130714,Z=2.421607),Rotation=(Pitch=-90.000000,Yaw=-0.000069,Roll=0.000069),Radius=56.249176,Length=8.249191)))
+      DefaultInstance=(bNotifyRigidBodyCollision=True)
+      BoneName="F_R_wheelJNT"
+      PhysicsType=PhysType_Kinematic
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_4"
+      AggGeom=(SphylElems=((Center=(X=-0.404149,Y=4.214039,Z=2.316142),Rotation=(Pitch=-90.000000,Yaw=-0.000177,Roll=0.000177),Radius=63.564556,Length=10.564568)))
+      DefaultInstance=(bNotifyRigidBodyCollision=True)
+      BoneName="B_R_wheelJNT"
+      PhysicsType=PhysType_Kinematic
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SkeletalBodySetup_5"
+      AggGeom=(SphylElems=((Center=(X=1.751153,Y=0.198772,Z=2.446925),Rotation=(Pitch=90.000000,Yaw=-0.000112,Roll=-0.000122),Radius=63.564556,Length=8.064568)))
+      DefaultInstance=(bNotifyRigidBodyCollision=True)
+      BoneName="B_L_wheelJNT"
+      PhysicsType=PhysType_Kinematic
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   PreviewSkeletalMesh=/Game/Vehicles/VH_Buggy/Mesh/SK_Buggy_Vehicle.SK_Buggy_Vehicle
+   BoundsBodies(0)=0
+   BoundsBodies(1)=1
+   BoundsBodies(2)=2
+   BoundsBodies(3)=3
+   BoundsBodies(4)=4
+   BoundsBodies(5)=5
+   SkeletalBodySetups(0)=SkeletalBodySetup'"SkeletalBodySetup_0"'
+   SkeletalBodySetups(1)=SkeletalBodySetup'"SkeletalBodySetup_1"'
+   SkeletalBodySetups(2)=SkeletalBodySetup'"SkeletalBodySetup_2"'
+   SkeletalBodySetups(3)=SkeletalBodySetup'"SkeletalBodySetup_3"'
+   SkeletalBodySetups(4)=SkeletalBodySetup'"SkeletalBodySetup_4"'
+   SkeletalBodySetups(5)=SkeletalBodySetup'"SkeletalBodySetup_5"'
+   ConstraintSetup(0)=PhysicsConstraintTemplate'"PhysicsConstraintTemplate_8"'
+   ConstraintSetup(1)=PhysicsConstraintTemplate'"PhysicsConstraintTemplate_0"'
+   ConstraintSetup(2)=PhysicsConstraintTemplate'"PhysicsConstraintTemplate_1"'
+   ConstraintSetup(3)=PhysicsConstraintTemplate'"PhysicsConstraintTemplate_2"'
+   ConstraintSetup(4)=PhysicsConstraintTemplate'"PhysicsConstraintTemplate_3"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object

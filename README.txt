@@ -1,0 +1,4 @@
+
+
+Welcome to Truck, a fairly simple project made over Unreal Engine 4 with the particular assistance of the Advanced Vehicle System plugin (I do not own any of the copyrights, this repository is strictly for learning. The Plugin is available at the Epic Games Marketplace, all the copyrights belong to SEVEN47 Software). This scenario has the following content:
+AVS Settings, Inputs, Setup a basic a master vehicle to further child creation, Mesh Skeletons, Bones, Physics, Collision, Suspension, Gearing, Traction, Center of Mass, and sound such as Skid Marks, Engine start and it's progress depending on RPM.
